@@ -1,0 +1,9 @@
+/applicationContext-mvc.xml
+/applicationContext-shiro.xml
+/applicationContext.xml
+/ehcache.xml
+/log4j.properties
+/net/
+/persistence.xml
+/shopxx.properties
+/shopxx.xml
